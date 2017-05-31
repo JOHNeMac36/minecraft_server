@@ -1,0 +1,15 @@
+--2017-05-31 19:04:00--  https://mods.curse.com/bukkit-plugins/minecraft/permissionsex/download
+Resolving mods.curse.com (mods.curse.com)... 104.16.61.226, 104.16.65.226, 104.16.62.226, ...
+Connecting to mods.curse.com (mods.curse.com)|104.16.61.226|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: /bukkit-plugins/minecraft/permissionsex/909154 [following]
+--2017-05-31 19:04:00--  https://mods.curse.com/bukkit-plugins/minecraft/permissionsex/909154
+Reusing existing connection to mods.curse.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘download’
+
+     0K .......... .......... .....                             775K=0.03s
+
+2017-05-31 19:04:00 (775 KB/s) - ‘download’ saved [26597]
+

@@ -1,0 +1,15 @@
+--2017-05-31 19:04:58--  https://mods.curse.com/bukkit-plugins/minecraft/essentials/download
+Resolving mods.curse.com (mods.curse.com)... 104.16.65.226, 104.16.62.226, 104.16.63.226, ...
+Connecting to mods.curse.com (mods.curse.com)|104.16.65.226|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: /bukkit-plugins/minecraft/essentials/780922 [following]
+--2017-05-31 19:04:58--  https://mods.curse.com/bukkit-plugins/minecraft/essentials/780922
+Reusing existing connection to mods.curse.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘download.1’
+
+     0K .......... .......... .....                             928K=0.03s
+
+2017-05-31 19:04:58 (928 KB/s) - ‘download.1’ saved [26555]
+

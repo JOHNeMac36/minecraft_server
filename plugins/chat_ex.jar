@@ -1,0 +1,22 @@
+--2017-05-31 19:10:16--  https://dev.bukkit.org/projects/chatex/files/latest
+Resolving dev.bukkit.org (dev.bukkit.org)... 104.16.64.226, 104.16.65.226, 104.16.62.226, ...
+Connecting to dev.bukkit.org (dev.bukkit.org)|104.16.64.226|:443... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: https://addons.cursecdn.com/files/2416/984/ChatEx.jar [following]
+--2017-05-31 19:10:16--  https://addons.cursecdn.com/files/2416/984/ChatEx.jar
+Resolving addons.cursecdn.com (addons.cursecdn.com)... 104.16.84.211, 104.16.81.211, 104.16.83.211, ...
+Connecting to addons.cursecdn.com (addons.cursecdn.com)|104.16.84.211|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://addons-origin.cursecdn.com/files/2416/984/ChatEx.jar [following]
+--2017-05-31 19:10:16--  https://addons-origin.cursecdn.com/files/2416/984/ChatEx.jar
+Resolving addons-origin.cursecdn.com (addons-origin.cursecdn.com)... 52.84.32.241
+Connecting to addons-origin.cursecdn.com (addons-origin.cursecdn.com)|52.84.32.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79188 (77K) [application/java-archive]
+Saving to: ‘latest’
+
+     0K .......... .......... .......... .......... .......... 64% 2.14M 0s
+    50K .......... .......... .......                         100% 5.47M=0.03s
+
+2017-05-31 19:10:16 (2.73 MB/s) - ‘latest’ saved [79188/79188]
+

@@ -1,0 +1,28 @@
+[19:01:44] [Server thread/INFO]: Starting minecraft server version 1.12-pre5
+[19:01:44] [Server thread/INFO]: Loading properties
+[19:01:44] [Server thread/INFO]: Default game type: SURVIVAL
+[19:01:44] [Server thread/INFO]: Generating keypair
+[19:01:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:01:44] [Server thread/INFO]: Using epoll channel type
+[19:01:44] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-c7920f4 (MC: 1.12-pre5) (Implementing API version 1.12-pre5-SNAPSHOT)
+[19:01:44] [Server thread/INFO]: Preparing level "world"
+[19:01:45] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[19:01:45] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[19:01:45] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[19:01:45] [Server thread/INFO]: Attempting to move world/DIM-1 to world_nether/DIM-1...
+[19:01:45] [Server thread/INFO]: Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+[19:01:45] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[19:01:45] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[19:01:45] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[19:01:45] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[19:01:45] [Server thread/INFO]: Attempting to move world/DIM1 to world_the_end/DIM1...
+[19:01:45] [Server thread/INFO]: Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+[19:01:45] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[19:01:45] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6337079734540074282)
+[19:01:46] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6337079734540074282)
+[19:01:47] [Server thread/INFO]: Preparing spawn area: 26%
+[19:01:48] [Server thread/INFO]: Preparing spawn area: 55%
+[19:01:49] [Server thread/INFO]: Preparing spawn area: 84%
+[19:01:49] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6337079734540074282)
+[19:01:50] [Server thread/INFO]: Done (5.578s)! For help, type "help" or "?"
+[19:01:56] [Thread-3/INFO]: Stopping server

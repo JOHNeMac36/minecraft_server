@@ -1,0 +1,15 @@
+--2017-05-31 19:07:33--  https://mods.curse.com/bukkit-plugins/minecraft/clearlagg/download
+Resolving mods.curse.com (mods.curse.com)... 104.16.63.226, 104.16.62.226, 104.16.61.226, ...
+Connecting to mods.curse.com (mods.curse.com)|104.16.63.226|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: /bukkit-plugins/minecraft/clearlagg/930478 [following]
+--2017-05-31 19:07:33--  https://mods.curse.com/bukkit-plugins/minecraft/clearlagg/930478
+Reusing existing connection to mods.curse.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘download.4’
+
+     0K .......... .......... .....                            1.04M=0.02s
+
+2017-05-31 19:07:33 (1.04 MB/s) - ‘download.4’ saved [26557]
+

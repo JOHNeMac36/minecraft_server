@@ -1,0 +1,15 @@
+--2017-05-31 19:04:35--  https://mods.curse.com/bukkit-plugins/minecraft/vault/download
+Resolving mods.curse.com (mods.curse.com)... 104.16.64.226, 104.16.63.226, 104.16.61.226, ...
+Connecting to mods.curse.com (mods.curse.com)|104.16.64.226|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: /bukkit-plugins/minecraft/vault/894359 [following]
+--2017-05-31 19:04:35--  https://mods.curse.com/bukkit-plugins/minecraft/vault/894359
+Reusing existing connection to mods.curse.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘download’
+
+     0K .......... .......... .....                             416K=0.06s
+
+2017-05-31 19:04:35 (416 KB/s) - ‘download’ saved [26518]
+
